@@ -6,3 +6,4 @@ PETA
 SESTA
 se eno
 sedma
+osma
