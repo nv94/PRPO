@@ -5,3 +5,4 @@ NOva veja zdej ze CETRTA
 PETA
 SESTA
 se eno
+sedma
